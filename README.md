@@ -6,6 +6,11 @@
 ### Table of contents
 
 - [FinancialPlanner](https://github.com/TribThapa/FinancialAnalysis/tree/main/FinancialPlanner)
+     - Using this script will allow you to determine the range within which the amount you invest today may fall in within a specific period (e.g., 5 year, 10 years etc). Future value of the invested amount will be presented in lineplots like the one shown below.  
+
+<p align="center">
+    <img src="/Images/Sim_LinePlot.png">
+</p>
 
 - [PortfolioAnalysis](https://github.com/TribThapa/FinancialAnalysis/tree/main/PortoflioAnalysis)
 
