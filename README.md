@@ -5,8 +5,15 @@
 
 ### Table of contents
 
-- [FinancialPlanner](https://github.com/TribThapa/MyFinTechHomework/tree/main/code/)
-- [PortfolioAnalysis](https://github.com/TribThapa/MyFinTechHomework/tree/main/data/)
+- [FinancialPlanner](https://github.com/TribThapa/FinancialAnalysis/tree/main/FinancialPlanner)
+
+- [PortfolioAnalysis](https://github.com/TribThapa/FinancialAnalysis/tree/main/PortoflioAnalysis)
+
+    - Using this script will allow you to generate a quick overview of how your stock portfolio compares to the market (often represented by the S&P500 but subject to your trade market). Below is an example of graphs that demonstrate how data is displayed, and   can be interpreted to inform decision making. 
+
+<p align="center">
+    <img src="/Images/CustomPorfolio_Correlations.png">
+</p>
 
 
 <!--- [![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true&theme=dark)](https://github.com/TribT/github-readme-stats)--->
