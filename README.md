@@ -12,6 +12,11 @@
 
     - Using this script will allow you to generate a quick overview of how your stock portfolio compares to the market (often represented by the S&P500 but subject to your trade market). Below is an example of graphs that demonstrate how data is displayed, and   can be interpreted to inform decision making. 
 
+- [DataVisualisation](https://github.com/TribThapa/FinancialAnalysis/tree/main/DataVisualisation)
+
+    - This scripts demonstrates different ways to present stock data
+    - Ensure you have the right packages installed and explore the different tools that allow you to present the same stock data differently
+
 - [Images](https://github.com/TribThapa/FinancialAnalysis/tree/main/Images)
 
 
