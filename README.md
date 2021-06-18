@@ -16,6 +16,7 @@
 
     - This scripts demonstrates different ways to present stock data
     - Ensure you have the right packages installed and explore the different tools that allow you to present the same stock data differently
+    - For a quick glance at some types of plots, look at the GIFs in this folder
 
 - [Images](https://github.com/TribThapa/FinancialAnalysis/tree/main/Images)
 
